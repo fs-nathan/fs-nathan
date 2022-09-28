@@ -1,19 +1,19 @@
 # Hello 🖖, I'm Nathan Nguyen
 
-I'm a fullstack web developer for 5+ years of experience. I currently work for team @Zaapi as a frontend engineer.
+<pre> I'm a fullstack web developer for 5+ years of experience. I currently work for team @Zaapi as a frontend engineer.
 
-💪 I also work on weekends for my own side projects.
+💪 I also work on weekends for my own side projects. </pre>
 
 <br/>
 
 ## 💫 About Me
-
+<pre>
 💼 I'm working remotely
 
 🌱 I'm currently learning Rxjs, NX, Micro Front-end and more ...
 
-📫 Want to reach me? [Gmail](mailto:nathan.makeitpro@gmail.com)
-
+📫 Want to reach me? <a href="mailto:nathan.makeitpro@gmail.com">Gmail</a>
+</pre>
 <br/>
 
 ## 💻 Skills
