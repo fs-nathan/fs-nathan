@@ -1,4 +1,4 @@
-# Hello 🖖, I'm Nathan Nguyen
+# Hello 🖖 I'm Nathan Nguyen
 
 <pre>
 I'm a fullstack web developer for 5+ years of experience
