@@ -1,8 +1,12 @@
 # Hello 🖖, I'm Nathan Nguyen
 
-<pre> I'm a fullstack web developer for 5+ years of experience. I currently work for team @Zaapi as a frontend engineer.
+<pre>
+I'm a fullstack web developer for 5+ years of experience
 
-💪 I also work on weekends for my own side projects. </pre>
+I currently work for team @Zaapi as a frontend engineer
+
+💪 I also work on weekends for my own side projects
+</pre>
 
 <br/>
 
