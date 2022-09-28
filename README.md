@@ -77,6 +77,7 @@ I currently work for team @Zaapi as a frontend engineer
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fs-nathan"><p>
 
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=fs-nathan)
 <br/>
 
 
