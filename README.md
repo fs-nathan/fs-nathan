@@ -56,12 +56,9 @@ I currently work for team @Zaapi as a frontend engineer
 
 <br/>
 
-## 🌟 Github Badges
+## 🌟 Open-source projects I contributed to
 
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
-</p>
+[evergreen](https://github.com/segmentio/evergreen)
 
 <!-- ## 🏆 GitHub Trophies
 
